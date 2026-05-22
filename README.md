@@ -4,6 +4,9 @@
 Instrumento diagnóstico de leitura para alunos do ensino médio com déficit severo de compreensão. Baseado na matriz de processos cognitivos do PIRLS 2021 (IEA / Boston College), adaptado para populações que operam abaixo do Benchmark Baixo internacional (400 pontos).
 
 ---
+### PRIMEIRA VERSÃO (v0-alpha) DISPONÍVEL:
+https://github.com/rodrigoleaopb/leia/releases/tag/v0-alpha
+---
 
 ## O que é o LEIA!
 
