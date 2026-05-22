@@ -72,5 +72,5 @@ Consulte [`LICENSE.md`](LICENSE.md) para os termos completos.
 | YouTube | [youtube.com/rodrigoleaobr](https://youtube.com/rodrigoleaobr) |
 | Instagram | [instagram.com/rodrigoleaobr](https://instagram.com/rodrigoleaobr) |
 | X / Twitter | [x.com/rodrigoleao](https://x.com/rodrigoleao) |
-| GitHub | [https://github.com/rodrigoleaopb] |
+| GitHub | [github.com/rodrigoleaopb] |
 
