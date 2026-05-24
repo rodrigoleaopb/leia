@@ -520,9 +520,7 @@ def build_exame(output_path):
     ]
     add_questions(elems, q2)
 
-    # === FOLHA DE RESPOSTAS ===
-    elems.append(PageBreak())
-    elems.extend(answer_sheet())
+    # Folha de respostas OMR inserida via mesclagem (ver __main__)
 
     decorator = make_page_decorator(
         "LEIA!", "Levantamento Integrado de Avaliação em Leitura"
@@ -1817,12 +1815,31 @@ def default_table_style(header_bg=NAVY, last_row_highlight=False):
 
 if __name__ == "__main__":
     import os
+    import tempfile
+    from pypdf import PdfWriter, PdfReader
+
     base = os.path.dirname(os.path.abspath(__file__))
     out = os.path.join(base, "..", "exame", "pdfs")
     os.makedirs(out, exist_ok=True)
+
     p1 = os.path.join(out, "01-exame-proficiencia-leitura.pdf")
     p2 = os.path.join(out, "02-guia-diagnostico-professor.pdf")
-    build_exame(p1)
+    scan_sheet = os.path.join(out, "04-folha-respostas-scan.pdf")
+
+    # Exame: gera sem folha de respostas, depois mescla com a folha OMR
+    with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as tmp:
+        tmp_path = tmp.name
+    build_exame(tmp_path)
+
+    writer = PdfWriter()
+    for page in PdfReader(tmp_path).pages:
+        writer.add_page(page)
+    for page in PdfReader(scan_sheet).pages:
+        writer.add_page(page)
+    with open(p1, "wb") as f:
+        writer.write(f)
+    os.unlink(tmp_path)
+
     build_guia(p2)
     print("OK:", p1)
     print("OK:", p2)
