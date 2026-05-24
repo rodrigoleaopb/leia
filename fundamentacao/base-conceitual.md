@@ -1,4 +1,4 @@
-# Base Conceitual e Prompt de Referência — LEIA! v0-alpha
+# Base Conceitual e Prompt de Referência — LEIA! v1-alpha
 
 ## 1. Análise do Contexto
 

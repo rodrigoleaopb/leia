@@ -1,4 +1,4 @@
-"""Gera folha de respostas com bolhas para escaneamento — LEIA! v0-alpha"""
+"""Gera folha de respostas com bolhas para escaneamento — LEIA! v1-alpha"""
 
 import os
 from reportlab.lib.pagesizes import A4
@@ -125,7 +125,7 @@ def gerar():
     c.setFont("Helvetica", 8)
     set_fill(c, LBLUE)
     c.drawString(15 * mm, PH - 18 * mm,
-        "Levantamento Integrado de Avaliação em Leitura · v0-alpha · Escaneamento")
+        "Levantamento Integrado de Avaliação em Leitura · v1-alpha · Escaneamento")
 
     # ── Caixa de identificação ────────────────────────────────────────────────
     ID_TOP  = PH - HEADER_H - 2 * mm
@@ -269,7 +269,7 @@ def gerar():
     c.setFont("Helvetica", 7.5)
     set_fill(c, GRAY)
     c.drawString(14*mm, 7*mm, "LEIA! · Levantamento Integrado de Avaliação em Leitura")
-    c.drawRightString(PW - 14*mm, 7*mm, "Folha de Respostas · Escaneamento · v0-alpha")
+    c.drawRightString(PW - 14*mm, 7*mm, "Folha de Respostas · Escaneamento · v1-alpha")
 
     c.save()
     print(f"OK · {OUTPUT}")

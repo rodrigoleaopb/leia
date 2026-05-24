@@ -1,4 +1,4 @@
-# PIRLS 2021 — Referencial Teórico do LEIA! v0-alpha
+# PIRLS 2021 — Referencial Teórico do LEIA! v1-alpha
 
 > Adaptado do *PIRLS 2021 Assessment Framework* (IEA / Boston College) para elaboração do LEIA! — Levantamento Integrado de Avaliação em Leitura, aplicado ao ensino médio.
 

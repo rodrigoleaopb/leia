@@ -1,11 +1,11 @@
 # LEIA! — Levantamento Integrado de Avaliação em Leitura
-### Ensino Médio — Populações com Defasagem Severa · `v0-alpha`
+### Ensino Médio — Populações com Defasagem Severa · `v1-alpha`
 
 Instrumento diagnóstico de leitura para alunos do ensino médio com déficit severo de compreensão. Baseado na matriz de processos cognitivos do PIRLS 2021 (IEA / Boston College), adaptado para populações que operam abaixo do Benchmark Baixo internacional (400 pontos).
 
 ---
-### PRIMEIRA VERSÃO (v0-alpha) DISPONÍVEL:
-https://github.com/rodrigoleaopb/leia/releases/tag/v0-alpha
+### PRIMEIRA VERSÃO (v1-alpha) DISPONÍVEL:
+https://github.com/rodrigoleaopb/leia/releases/tag/v1-alpha
 ---
 
 ## O que é o LEIA!

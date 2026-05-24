@@ -1,4 +1,4 @@
-# Guia Diagnóstico — LEIA! v0-alpha
+# Guia Diagnóstico — LEIA! v1-alpha
 ## Levantamento Integrado de Avaliação em Leitura · Uso exclusivo do professor
 
 ---
@@ -432,5 +432,5 @@ Após o programa de intervenção, o segundo exame deve:
 
 ---
 
-*LEIA! v0-alpha — elaborado por **Rodrigo Leão** com base no PIRLS 2021 Assessment Framework (IEA / Boston College), adaptado para populações com defasagem severa no ensino médio. Licença CC BY 4.0.*
+*LEIA! v1-alpha — elaborado por **Rodrigo Leão** com base no PIRLS 2021 Assessment Framework (IEA / Boston College), adaptado para populações com defasagem severa no ensino médio. Licença CC BY 4.0.*
 *Contato: [contato.profleao@gmail.com](mailto:contato.profleao@gmail.com) · [youtube.com/rodrigoleaobr](https://youtube.com/rodrigoleaobr) · [instagram.com/rodrigoleaobr](https://instagram.com/rodrigoleaobr) · [x.com/rodrigoleao](https://x.com/rodrigoleao) · GitHub: em breve*

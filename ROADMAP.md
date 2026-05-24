@@ -2,7 +2,7 @@
 
 ---
 
-## v0-alpha → v0-beta: Campo antes de código
+## v1-alpha → v0-beta: Campo antes de código
 
 A prioridade imediata não é o app — é a aplicação de campo. O instrumento foi calibrado por critério lógico, sem piloto. Os dados reais de turma vão revelar o que nenhuma análise teórica prevê: efeito chão (maioria zerando P0), distribuição atípica de erros, itens com redação ambígua, tempo real de aplicação.
 

@@ -1,4 +1,4 @@
-# LEIA! — Levantamento Integrado de Avaliação em Leitura `v0-alpha`
+# LEIA! — Levantamento Integrado de Avaliação em Leitura `v1-alpha`
 
 **Escola:** _________________________________________________ **Data:** _____ / _____ / _______
 
@@ -219,6 +219,6 @@ O problema não está no celular em si, mas no uso sem consciência. Especialist
 
 ---
 
-*LEIA! v0-alpha — elaborado por **Rodrigo Leão** com base no PIRLS 2021 Assessment Framework (IEA / Boston College, 2019), adaptado para populações com defasagem severa no ensino médio. Licença CC BY 4.0.*
+*LEIA! v1-alpha — elaborado por **Rodrigo Leão** com base no PIRLS 2021 Assessment Framework (IEA / Boston College, 2019), adaptado para populações com defasagem severa no ensino médio. Licença CC BY 4.0.*
 *Contato: [contato.profleao@gmail.com](mailto:contato.profleao@gmail.com) · [youtube.com/rodrigoleaobr](https://youtube.com/rodrigoleaobr) · GitHub: em breve*
 

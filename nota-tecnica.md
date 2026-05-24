@@ -1,4 +1,4 @@
-# Nota Técnica — LEIA! v0-alpha
+# Nota Técnica — LEIA! v1-alpha
 ## Levantamento Integrado de Avaliação em Leitura · Ensino Médio / Populações com Defasagem Severa
 
 ---
@@ -141,6 +141,6 @@ A única restrição é a atribuição. Adaptações não precisam ser licenciad
 
 ---
 
-*LEIA! v0-alpha — elaborado com base no PIRLS 2021 Assessment Framework (IEA / Boston College, 2019) e no PISA 2022 Assessment and Analytical Framework (OECD, 2023).*
+*LEIA! v1-alpha — elaborado com base no PIRLS 2021 Assessment Framework (IEA / Boston College, 2019) e no PISA 2022 Assessment and Analytical Framework (OECD, 2023).*
 
 *Autor: **Rodrigo Leão** — [contato.profleao@gmail.com](mailto:contato.profleao@gmail.com) · [youtube.com/rodrigoleaobr](https://youtube.com/rodrigoleaobr) · [instagram.com/rodrigoleaobr](https://instagram.com/rodrigoleaobr) · [x.com/rodrigoleao](https://x.com/rodrigoleao) · GitHub: em breve*
