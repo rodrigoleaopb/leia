@@ -54,12 +54,10 @@ Um levantamento de ponto zero: não mede onde o aluno deveria estar pelo critér
 
 ### Correção via webapp
 
-Acesse **https://rodrigoleaopb.github.io/leia-app/** no celular ou computador.
-
-| Arquivo | Quando usar |
-|---|---|
-| `index.html` | Digitar as respostas manualmente durante ou após a aplicação |
-| `scan.html` | Fotografar a folha de respostas preenchida para leitura automática |
+| Modo | Link | Quando usar |
+|---|---|---|
+| Entrada manual | **https://rodrigoleaopb.github.io/leia-app/index.html** | Digitar as respostas durante ou após a aplicação |
+| Leitura por câmera | **https://rodrigoleaopb.github.io/leia-app/scan.html** | Fotografar a folha de respostas para leitura automática |
 
 **Fluxo do `scan.html`:**
 1. Fotografe a folha de respostas (`04-folha-respostas-scan.pdf`) sobre superfície plana
